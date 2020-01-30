@@ -1,0 +1,571 @@
+﻿  Consumer.cpp
+C:\Users\anhua\Desktop\test\AMQdemo\Consumer.cpp(140,27): warning C4101: “e”: 未引用的局部变量
+C:\Users\anhua\Desktop\test\AMQdemo\Consumer.cpp(147,27): warning C4101: “e”: 未引用的局部变量
+C:\Users\anhua\Desktop\test\AMQdemo\Consumer.cpp(156,27): warning C4101: “e”: 未引用的局部变量
+C:\Users\anhua\Desktop\test\AMQdemo\Consumer.cpp(163,27): warning C4101: “e”: 未引用的局部变量
+C:\Users\anhua\Desktop\test\AMQdemo\Consumer.cpp(170,27): warning C4101: “e”: 未引用的局部变量
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(221,55): warning C4101: “e”: 未引用的局部变量
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(212): message : 在编译 类 模板 成员函数“void decaf::util::AbstractList<E>::SimpleListIterator::set(const E &)”时
+          with
+          [
+              E=decaf::lang::Pointer<activemq::commands::ActiveMQDestination,decaf::util::concurrent::atomic::AtomicRefCounter>
+          ]
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(360): message : 查看对正在编译的 类 模板 实例化“decaf::util::AbstractList<E>::SimpleListIterator”的引用
+          with
+          [
+              E=decaf::lang::Pointer<activemq::commands::ActiveMQDestination,decaf::util::concurrent::atomic::AtomicRefCounter>
+          ]
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(359): message : 在编译 类 模板 成员函数“decaf::util::ListIterator<E> *decaf::util::AbstractList<E>::listIterator(int)”时
+          with
+          [
+              E=decaf::lang::Pointer<activemq::commands::ActiveMQDestination,decaf::util::concurrent::atomic::AtomicRefCounter>
+          ]
+C:\work\activemq-cpp-library\src\main\decaf\util\ArrayList.h(39): message : 查看对正在编译的 类 模板 实例化“decaf::util::AbstractList<E>”的引用
+          with
+          [
+              E=decaf::lang::Pointer<activemq::commands::ActiveMQDestination,decaf::util::concurrent::atomic::AtomicRefCounter>
+          ]
+C:\work\activemq-cpp-library\src\main\activemq\commands\ActiveMQDestination.h(65): message : 查看对正在编译的 类 模板 实例化“decaf::util::ArrayList<decaf::lang::Pointer<activemq::commands::ActiveMQDestination,decaf::util::concurrent::atomic::AtomicRefCounter>>”的引用
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(202,55): warning C4101: “e”: 未引用的局部变量
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(187): message : 在编译 类 模板 成员函数“E decaf::util::AbstractList<E>::SimpleListIterator::previous(void)”时
+          with
+          [
+              E=decaf::lang::Pointer<activemq::commands::ActiveMQDestination,decaf::util::concurrent::atomic::AtomicRefCounter>
+          ]
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(173,55): warning C4101: “e”: 未引用的局部变量
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(162): message : 在编译 类 模板 成员函数“void decaf::util::AbstractList<E>::SimpleListIterator::add(const E &)”时
+          with
+          [
+              E=decaf::lang::Pointer<activemq::commands::ActiveMQDestination,decaf::util::concurrent::atomic::AtomicRefCounter>
+          ]
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(153,55): warning C4101: “e”: 未引用的局部变量
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(133): message : 在编译 类 模板 成员函数“void decaf::util::AbstractList<E>::SimpleListIterator::remove(void)”时
+          with
+          [
+              E=decaf::lang::Pointer<activemq::commands::ActiveMQDestination,decaf::util::concurrent::atomic::AtomicRefCounter>
+          ]
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(127,55): warning C4101: “e”: 未引用的局部变量
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(112): message : 在编译 类 模板 成员函数“E decaf::util::AbstractList<E>::SimpleListIterator::next(void)”时
+          with
+          [
+              E=decaf::lang::Pointer<activemq::commands::ActiveMQDestination,decaf::util::concurrent::atomic::AtomicRefCounter>
+          ]
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(322,55): warning C4101: “e”: 未引用的局部变量
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(307): message : 在编译 类 模板 成员函数“E decaf::util::AbstractList<E>::ConstSimpleListIterator::previous(void)”时
+          with
+          [
+              E=decaf::lang::Pointer<activemq::commands::ActiveMQDestination,decaf::util::concurrent::atomic::AtomicRefCounter>
+          ]
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(363): message : 查看对正在编译的 类 模板 实例化“decaf::util::AbstractList<E>::ConstSimpleListIterator”的引用
+          with
+          [
+              E=decaf::lang::Pointer<activemq::commands::ActiveMQDestination,decaf::util::concurrent::atomic::AtomicRefCounter>
+          ]
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(362): message : 在编译 类 模板 成员函数“decaf::util::ListIterator<E> *decaf::util::AbstractList<E>::listIterator(int) const”时
+          with
+          [
+              E=decaf::lang::Pointer<activemq::commands::ActiveMQDestination,decaf::util::concurrent::atomic::AtomicRefCounter>
+          ]
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(417): message : 查看对正在编译的函数 模板 实例化“decaf::util::ListIterator<E> *decaf::util::AbstractList<E>::listIterator(int) const”的引用
+          with
+          [
+              E=decaf::lang::Pointer<activemq::commands::ActiveMQDestination,decaf::util::concurrent::atomic::AtomicRefCounter>
+          ]
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(281,55): warning C4101: “e”: 未引用的局部变量
+C:\work\activemq-cpp-library\src\main\decaf\util\AbstractList.h(266): message : 在编译 类 模板 成员函数“E decaf::util::AbstractList<E>::ConstSimpleListIterator::next(void)”时
+          with
+          [
+              E=decaf::lang::Pointer<activemq::commands::ActiveMQDestination,decaf::util::concurrent::atomic::AtomicRefCounter>
+          ]
+  正在生成代码
+  1 of 36938 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    140 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+libactivemq-cpp.lib(MessageListenerCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageListenerCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ExceptionListenerCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ExceptionListenerCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(AtomicInteger.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(AtomicInteger.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(OpenWireResponseBuilder.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(OpenWireResponseBuilder.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DefaultTransportListener.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DefaultTransportListener.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQCPP.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQCPP.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQConnectionFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQConnectionFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQConnection.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQConnection.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Atomics.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Atomics.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Integer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Integer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Number.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Number.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Throwable.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Throwable.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Exception.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Exception.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(NullPointerException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(NullPointerException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Response.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Response.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DecafRuntime.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DecafRuntime.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TransportRegistry.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TransportRegistry.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SslTransportFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SslTransportFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TcpTransportFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TcpTransportFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(FailoverTransportFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(FailoverTransportFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(AbstractTransportFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(AbstractTransportFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MockTransportFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MockTransportFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(OpenWireFormatFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(OpenWireFormatFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(WireFormatFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(WireFormatFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(StompWireFormatFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(StompWireFormatFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(WireFormatRegistry.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(WireFormatRegistry.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(IdGenerator.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(IdGenerator.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(CMSExceptionCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(CMSExceptionCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConnectionFactoryCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConnectionFactoryCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(URIType.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(URIType.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Properties.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Properties.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(LockDecaf.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(LockDecaf.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Mutex.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Mutex.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Long.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Long.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Boolean.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Boolean.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(String.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(String.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(URI.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(URI.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(CompositeData.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(CompositeData.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(URISupport.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(URISupport.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQMessageAudit.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQMessageAudit.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQConstants.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQConstants.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DefaultPrefetchPolicy.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DefaultPrefetchPolicy.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DefaultRedeliveryPolicy.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DefaultRedeliveryPolicy.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(EnhancedConnection.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(EnhancedConnection.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(XAExceptionCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(XAExceptionCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageEOFExceptionCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageEOFExceptionCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(IllegalStateExceptionCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(IllegalStateExceptionCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(CMSSecurityExceptionCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(CMSSecurityExceptionCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ResourceAllocationExceptionCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ResourceAllocationExceptionCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageNotReadableExceptionCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageNotReadableExceptionCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(UnsupportedOperationExceptionCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(UnsupportedOperationExceptionCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TransactionRolledBackExceptionCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TransactionRolledBackExceptionCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(StoppableCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(StoppableCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConnectionCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConnectionCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TransactionInProgressExceptionCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TransactionInProgressExceptionCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageNotWriteableExceptionCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageNotWriteableExceptionCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(InvalidSelectorExceptionCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(InvalidSelectorExceptionCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(InvalidDestinationExceptionCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(InvalidDestinationExceptionCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(InvalidClientIdExceptionCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(InvalidClientIdExceptionCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageFormatExceptionCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageFormatExceptionCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(CloseableCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(CloseableCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(StartableCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(StartableCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConcurrentModificationException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConcurrentModificationException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ReentrantLock.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ReentrantLock.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ReentrantReadWriteLock.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ReentrantReadWriteLock.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ThreadPoolExecutor.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ThreadPoolExecutor.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TimeUnit.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TimeUnit.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Synchronizable.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Synchronizable.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(AtomicBoolean.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(AtomicBoolean.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(CountDownLatch.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(CountDownLatch.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(NoSuchElementException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(NoSuchElementException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SimplePriorityMessageDispatchChannel.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SimplePriorityMessageDispatchChannel.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(IllegalStateException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(IllegalStateException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(IllegalArgumentException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(IllegalArgumentException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(UnsupportedOperationException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(UnsupportedOperationException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(IndexOutOfBoundsException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(IndexOutOfBoundsException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ClassCastException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ClassCastException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(RuntimeException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(RuntimeException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Runnable.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Runnable.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQSessionKernel.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQSessionKernel.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Thread.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Thread.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ResponseCorrelator.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ResponseCorrelator.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(FailoverTransport.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(FailoverTransport.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ResponseCallback.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ResponseCallback.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(BrokerException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(BrokerException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConnectionFailedException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConnectionFailedException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(OpenWireFormat.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(OpenWireFormat.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConnectionId.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConnectionId.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SessionId.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SessionId.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConsumerId.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConsumerId.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ShutdownInfo.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ShutdownInfo.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DestinationInfo.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DestinationInfo.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessagePull.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessagePull.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(BrokerError.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(BrokerError.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConnectionInfo.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConnectionInfo.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(LongSequenceGenerator.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(LongSequenceGenerator.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Scheduler.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Scheduler.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(AdvisoryConsumer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(AdvisoryConsumer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQProducerKernel.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQProducerKernel.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQConnectionMetaData.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQConnectionMetaData.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQDestinationSource.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQDestinationSource.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConnectionAudit.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConnectionAudit.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQSession.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQSession.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Character.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Character.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(NumberFormatException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(NumberFormatException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(AprPool.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(AprPool.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MarshalAware.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MarshalAware.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Threading.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Threading.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Network.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Network.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SecurityRuntime.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SecurityRuntime.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(System.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(System.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Runtime.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Runtime.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(InactivityMonitor.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(InactivityMonitor.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(LoggingTransport.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(LoggingTransport.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SslTransport.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SslTransport.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(IOTransport.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(IOTransport.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TcpTransport.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TcpTransport.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(IOException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(IOException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MockTransport.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MockTransport.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ResponseBuilder.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ResponseBuilder.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(WireFormatInfo.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(WireFormatInfo.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(StompWireFormat.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(StompWireFormat.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(StringUtils.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(StringUtils.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ServerSocket.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ServerSocket.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(InetAddress.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(InetAddress.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(BufferedInputStream.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(BufferedInputStream.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(InputStream.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(InputStream.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Date.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Date.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(OpenSSLContextSpi.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(OpenSSLContextSpi.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(IllegalMonitorStateException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(IllegalMonitorStateException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Float.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Float.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Short.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Short.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(StringIndexOutOfBoundsException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(StringIndexOutOfBoundsException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Double.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Double.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(CharSequence.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(CharSequence.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(URIEncoderDecoder.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(URIEncoderDecoder.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(URIHelper.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(URIHelper.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(URISyntaxException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(URISyntaxException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(URL.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(URL.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(StringTokenizer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(StringTokenizer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(URLEncoder.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(URLEncoder.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(BitSet.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(BitSet.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(PrefetchPolicy.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(PrefetchPolicy.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Random.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Random.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Math.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Math.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(RedeliveryPolicy.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(RedeliveryPolicy.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(AbstractQueuedSynchronizer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(AbstractQueuedSynchronizer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Lock.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Lock.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(AbstractOwnableSynchronizer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(AbstractOwnableSynchronizer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ThreadLocalImpl.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ThreadLocalImpl.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ReadWriteLock.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ReadWriteLock.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TimerTask.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TimerTask.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Timer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Timer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(AbstractExecutorService.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(AbstractExecutorService.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(RejectedExecutionHandler.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(RejectedExecutionHandler.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(RejectedExecutionException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(RejectedExecutionException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Executors.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Executors.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageDispatchChannel.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageDispatchChannel.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SessionCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SessionCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQTempTopic.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQTempTopic.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQDestination.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQDestination.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SessionInfo.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SessionInfo.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQTempQueue.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQTempQueue.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQStreamMessage.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQStreamMessage.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(RemoveInfo.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(RemoveInfo.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ProducerId.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ProducerId.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQMapMessage.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQMapMessage.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageId.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageId.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQTextMessage.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQTextMessage.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQBytesMessage.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQBytesMessage.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQTopic.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQTopic.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQQueue.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQQueue.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(RemoveSubscriptionInfo.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(RemoveSubscriptionInfo.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQMessage.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQMessage.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQMessageTransformation.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQMessageTransformation.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQConsumer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQConsumer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQQueueBrowser.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQQueueBrowser.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQConsumerKernel.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQConsumerKernel.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Synchronization.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Synchronization.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQProducer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQProducer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQTransactionContext.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQTransactionContext.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Dispatcher.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Dispatcher.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQSessionExecutor.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQSessionExecutor.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(IllegalThreadStateException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(IllegalThreadStateException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(FutureResponse.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(FutureResponse.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TransportFilter.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TransportFilter.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ExceptionResponse.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ExceptionResponse.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(InterruptedIOException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(InterruptedIOException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Closeable.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Closeable.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(BackupTransportPool.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(BackupTransportPool.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(CloseTransportsTask.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(CloseTransportsTask.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(FailoverTransportListener.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(FailoverTransportListener.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(URIPool.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(URIPool.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(CompositeTransport.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(CompositeTransport.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Transport.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Transport.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Tracked.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Tracked.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConnectionStateTracker.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConnectionStateTracker.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageDispatch.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageDispatch.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConnectionControl.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConnectionControl.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Service.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Service.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(CompositeTask.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(CompositeTask.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Task.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Task.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(CompositeTaskRunner.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(CompositeTaskRunner.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ByteArrayOutputStream.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ByteArrayOutputStream.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DataOutputStream.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DataOutputStream.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(UUID.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(UUID.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(OpenWireFormatNegotiator.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(OpenWireFormatNegotiator.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MarshallerFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MarshallerFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(BooleanStream.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(BooleanStream.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(WireFormat.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(WireFormat.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ServiceSupport.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ServiceSupport.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SchedulerTimerTask.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SchedulerTimerTask.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageAck.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageAck.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConsumerInfo.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConsumerInfo.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(AdvisorySupport.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(AdvisorySupport.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageProducerCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageProducerCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ProducerInfo.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ProducerInfo.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MemoryUsage.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MemoryUsage.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConnectionMetaDataCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConnectionMetaDataCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DestinationSource.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DestinationSource.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQDestinationEvent.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQDestinationEvent.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(PlatformThread.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(PlatformThread.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(InterruptedException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(InterruptedException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ResourceLifecycleManager.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ResourceLifecycleManager.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DefaultProvider.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DefaultProvider.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ServiceRegistry.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ServiceRegistry.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ReadChecker.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ReadChecker.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(WriteChecker.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(WriteChecker.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(KeepAliveInfo.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(KeepAliveInfo.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SocketException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SocketException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SSLSocketFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SSLSocketFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SSLParameters.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SSLParameters.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SimpleLogger.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SimpleLogger.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DataInputStream.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DataInputStream.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(BufferedOutputStream.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(BufferedOutputStream.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SocketFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SocketFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(LoggingOutputStream.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(LoggingOutputStream.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(LoggingInputStream.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(LoggingInputStream.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(InternalCommandListener.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(InternalCommandListener.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(PrimitiveTypesMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(PrimitiveTypesMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(PrimitiveValueNode.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(PrimitiveValueNode.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(PrimitiveMap.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(PrimitiveMap.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(StompCommandConstants.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(StompCommandConstants.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(StompFrame.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(StompFrame.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(StompHelper.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(StompHelper.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TcpSocket.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TcpSocket.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Socket.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Socket.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SocketOptions.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SocketOptions.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Byte.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Byte.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(UnknownHostException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(UnknownHostException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Inet4Address.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Inet4Address.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Inet6Address.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Inet6Address.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(FilterInputStream.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(FilterInputStream.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(OpenSSLServerSocketFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(OpenSSLServerSocketFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(OpenSSLSocketFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(OpenSSLSocketFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SSLContextSpi.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SSLContextSpi.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(KeyManagementException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(KeyManagementException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(GeneralSecurityException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(GeneralSecurityException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(KeyException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(KeyException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(URLStreamHandlerManager.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(URLStreamHandlerManager.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(URLType.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(URLType.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(URLUtils.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(URLUtils.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MalformedURLException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MalformedURLException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(NegativeArraySizeException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(NegativeArraySizeException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(OutOfMemoryError.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(OutOfMemoryError.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Condition.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Condition.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(LockSupport.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(LockSupport.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TimerTaskHeap.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TimerTaskHeap.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SynchronizableImpl.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SynchronizableImpl.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TemporaryTopicCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TemporaryTopicCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TopicCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TopicCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DestinationCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DestinationCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQTempDestination.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQTempDestination.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQProperties.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQProperties.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(QueueCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(QueueCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TemporaryQueueCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TemporaryQueueCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(StreamMessageCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(StreamMessageCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ByteArrayInputStream.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ByteArrayInputStream.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Deflater.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Deflater.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(InflaterInputStream.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(InflaterInputStream.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DeflaterOutputStream.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DeflaterOutputStream.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(BaseDataStreamMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(BaseDataStreamMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessagePropertyInterceptor.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessagePropertyInterceptor.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Message.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Message.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(CMSExceptionSupport.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(CMSExceptionSupport.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MarshallingSupport.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MarshallingSupport.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MapMessageCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MapMessageCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(FilterOutputStream.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(FilterOutputStream.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TextMessageCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TextMessageCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(BytesMessageCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(BytesMessageCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(OutputStream.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(OutputStream.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQObjectMessage.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQObjectMessage.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageConsumerCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageConsumerCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(QueueBrowserCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(QueueBrowserCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageEnumerationCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageEnumerationCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(CancellationException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(CancellationException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ExecutionException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ExecutionException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TimeoutException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TimeoutException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQAckHandler.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQAckHandler.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(FifoMessageDispatchChannel.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(FifoMessageDispatchChannel.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(XidCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(XidCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(XAResourceCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(XAResourceCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(XATransactionId.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(XATransactionId.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TransactionInfo.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TransactionInfo.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(LocalTransactionId.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(LocalTransactionId.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DedicatedTaskRunner.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DedicatedTaskRunner.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(BackupTransport.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(BackupTransport.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SessionState.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SessionState.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TransactionState.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TransactionState.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(CommandVisitor.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(CommandVisitor.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ProducerState.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ProducerState.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConnectionState.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConnectionState.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(CommandVisitorAdapter.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(CommandVisitorAdapter.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConsumerControl.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConsumerControl.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TaskRunner.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TaskRunner.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(UTFDataFormatException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(UTFDataFormatException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageDigest.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageDigest.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SecureRandom.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SecureRandom.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(WireFormatNegotiator.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(WireFormatNegotiator.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DataStreamMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DataStreamMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ProducerInfoMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ProducerInfoMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQStreamMessageMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQStreamMessageMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(BrokerIdMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(BrokerIdMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(BrokerInfoMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(BrokerInfoMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(JournalTraceMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(JournalTraceMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConnectionControlMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConnectionControlMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(JournalQueueAckMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(JournalQueueAckMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SessionInfoMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SessionInfoMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(LastPartialCommandMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(LastPartialCommandMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageAckMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageAckMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(IntegerResponseMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(IntegerResponseMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageDispatchMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageDispatchMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageDispatchNotificationMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageDispatchNotificationMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConsumerIdMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConsumerIdMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConnectionInfoMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConnectionInfoMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ControlCommandMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ControlCommandMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(RemoveInfoMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(RemoveInfoMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DestinationInfoMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DestinationInfoMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(LocalTransactionIdMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(LocalTransactionIdMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConsumerControlMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConsumerControlMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(XATransactionIdMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(XATransactionIdMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ExceptionResponseMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ExceptionResponseMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ProducerAckMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ProducerAckMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessagePullMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessagePullMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(NetworkBridgeFilterMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(NetworkBridgeFilterMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(PartialCommandMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(PartialCommandMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQTempQueueMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQTempQueueMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SubscriptionInfoMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SubscriptionInfoMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DataResponseMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DataResponseMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQQueueMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQQueueMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQBlobMessageMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQBlobMessageMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DiscoveryEventMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DiscoveryEventMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQDestinationMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQDestinationMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConnectionErrorMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConnectionErrorMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQBytesMessageMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQBytesMessageMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TransactionInfoMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TransactionInfoMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(JournalTransactionMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(JournalTransactionMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SessionIdMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SessionIdMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ResponseMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ResponseMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TransactionIdMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TransactionIdMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ShutdownInfoMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ShutdownInfoMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQMapMessageMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQMapMessageMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQTopicMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQTopicMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQObjectMessageMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQObjectMessageMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(KeepAliveInfoMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(KeepAliveInfoMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(RemoveSubscriptionInfoMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(RemoveSubscriptionInfoMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(BaseCommandMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(BaseCommandMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConsumerInfoMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConsumerInfoMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ReplayCommandMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ReplayCommandMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DataArrayResponseMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DataArrayResponseMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQTextMessageMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQTextMessageMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQMessageMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQMessageMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQTempDestinationMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQTempDestinationMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(FlushCommandMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(FlushCommandMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConnectionIdMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConnectionIdMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ProducerIdMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ProducerIdMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQTempTopicMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQTempTopicMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(JournalTopicAckMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(JournalTopicAckMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(WireFormatInfoMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(WireFormatInfoMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageIdMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageIdMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageMarshaller.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageMarshaller.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ServiceStopper.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ServiceStopper.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Usage.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Usage.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DestinationEvent.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DestinationEvent.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DefaultSecureRandomProviderService.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DefaultSecureRandomProviderService.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DefaultMessageDigestProviderService.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DefaultMessageDigestProviderService.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Provider.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Provider.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Resource.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Resource.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DefaultSSLSocketFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DefaultSSLSocketFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DefaultSSLContext.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DefaultSSLContext.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SSLContext.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SSLContext.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(LogWriter.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(LogWriter.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(PushbackInputStream.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(PushbackInputStream.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(EOFException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(EOFException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DefaultSocketFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DefaultSocketFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(PrimitiveList.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(PrimitiveList.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(PrimitiveValueConverter.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(PrimitiveValueConverter.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SocketFileDescriptor.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SocketFileDescriptor.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TcpSocketOutputStream.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TcpSocketOutputStream.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TcpSocketInputStream.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TcpSocketInputStream.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SocketError.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SocketError.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SocketImpl.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SocketImpl.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SSLServerSocketFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SSLServerSocketFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(HttpsHandler.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(HttpsHandler.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(HttpHandler.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(HttpHandler.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(FileHandler.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(FileHandler.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(URLStreamHandler.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(URLStreamHandler.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(CMSPropertiesCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(CMSPropertiesCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(deflate.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(deflate.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Inflater.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Inflater.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(HexTable.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(HexTable.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Flushable.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Flushable.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ObjectMessageCMS.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ObjectMessageCMS.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(TransactionId.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(TransactionId.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConsumerState.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConsumerState.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Engine.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Engine.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(CloneNotSupportedException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(CloneNotSupportedException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(NoSuchAlgorithmException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(NoSuchAlgorithmException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SecureRandomImpl.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SecureRandomImpl.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(BrokerId.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(BrokerId.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(BrokerInfo.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(BrokerInfo.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(JournalTrace.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(JournalTrace.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(JournalQueueAck.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(JournalQueueAck.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(LastPartialCommand.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(LastPartialCommand.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(IntegerResponse.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(IntegerResponse.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageDispatchNotification.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageDispatchNotification.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ControlCommand.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ControlCommand.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ProducerAck.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ProducerAck.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(NetworkBridgeFilter.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(NetworkBridgeFilter.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(PartialCommand.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(PartialCommand.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SubscriptionInfo.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SubscriptionInfo.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DataResponse.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DataResponse.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ActiveMQBlobMessage.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ActiveMQBlobMessage.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DiscoveryEvent.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DiscoveryEvent.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ConnectionError.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ConnectionError.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(JournalTransaction.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(JournalTransaction.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ReplayCommand.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ReplayCommand.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DataArrayResponse.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DataArrayResponse.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(FlushCommand.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(FlushCommand.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(JournalTopicAck.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(JournalTopicAck.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ProviderService.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ProviderService.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MD5MessageDigestSpi.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MD5MessageDigestSpi.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MD4MessageDigestSpi.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MD4MessageDigestSpi.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SHA1MessageDigestSpi.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SHA1MessageDigestSpi.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(FileDescriptor.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(FileDescriptor.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DefaultSSLServerSocketFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DefaultSSLServerSocketFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ServerSocketFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ServerSocketFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SecurityException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SecurityException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(trees.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(trees.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(zutil.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(zutil.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(adler32ZLib.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(adler32ZLib.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(crc32ZLib.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(crc32ZLib.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(inflate.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(inflate.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DataFormatException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DataFormatException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SecureRandomSpi.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SecureRandomSpi.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ByteBuffer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ByteBuffer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(MessageDigestSpi.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(MessageDigestSpi.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DigestException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DigestException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DefaultServerSocketFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DefaultServerSocketFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(inftrees.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(inftrees.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(inffast.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(inffast.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(SecuritySpi.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(SecuritySpi.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(BufferFactory.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(BufferFactory.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(BufferOverflowException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(BufferOverflowException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(BufferUnderflowException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(BufferUnderflowException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ReadOnlyBufferException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ReadOnlyBufferException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Buffer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Buffer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ByteArrayBuffer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ByteArrayBuffer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(IntArrayBuffer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(IntArrayBuffer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ShortArrayBuffer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ShortArrayBuffer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(LongArrayBuffer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(LongArrayBuffer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(FloatArrayBuffer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(FloatArrayBuffer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DoubleArrayBuffer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DoubleArrayBuffer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(CharArrayBuffer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(CharArrayBuffer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(InvalidMarkException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(InvalidMarkException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ByteArrayAdapter.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ByteArrayAdapter.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(IntBuffer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(IntBuffer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(ShortBuffer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(ShortBuffer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(LongBuffer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(LongBuffer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(FloatBuffer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(FloatBuffer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(DoubleBuffer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(DoubleBuffer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(CharBuffer.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(CharBuffer.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(Appendable.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(Appendable.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libactivemq-cpp.lib(InvalidStateException.obj) : warning LNK4099: 未找到 PDB“activemq-cpp.pdb”(使用“libactivemq-cpp.lib(InvalidStateException.obj)”或在“C:\Users\anhua\Desktop\test\AMQdemo\Release\activemq-cpp.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  AMQdemo.vcxproj -> C:\Users\anhua\Desktop\test\AMQdemo\Release\AMQdemo.exe
